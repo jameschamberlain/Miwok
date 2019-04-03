@@ -14,4 +14,4 @@ Android Studio.
 Building
 ---------------
 <img src="/screenshots/numbers_screenshot.png" alt="Numbers Screenshot" width="200"/>
-![Colors Screenshot](/screenshots/colors_screenshot.png)
+<img src="/screenshots/colors_screenshot.png" alt="Colors Screenshot" width="200"/>
