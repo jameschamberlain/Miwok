@@ -14,3 +14,4 @@ Android Studio.
 Building
 ---------------
 ![Numbers Screenshot](/screenshots/numbers_screenshot.png=250x)
+![Colors Screenshot](/screenshots/colors_screenshot.png)
