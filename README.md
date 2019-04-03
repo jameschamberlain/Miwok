@@ -11,7 +11,7 @@ To build this project, use the "gradlew build" command or use "Import Project" i
 Android Studio.
 
 
-Building
+Screenshots
 ---------------
 <div>
   <img src="/screenshots/numbers_screenshot.png" alt="Numbers Screenshot" width="20%"/>
