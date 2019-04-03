@@ -14,6 +14,6 @@ Android Studio.
 Building
 ---------------
 <div>
-  <img src="/screenshots/numbers_screenshot.png" alt="Numbers Screenshot" width="40%"/>
-  <img src="/screenshots/colors_screenshot.png" alt="Colors Screenshot" width="40%"/>
+  <img src="/screenshots/numbers_screenshot.png" alt="Numbers Screenshot" width="20%"/>
+  <img src="/screenshots/colors_screenshot.png" alt="Colors Screenshot" width="20%"/>
 </div>
